@@ -1,0 +1,3 @@
+[  { "price" : "10", "name" : "Риба тон", "photo_url" : "pictures/ribaTon.png" },
+  { "price" : "10", "name" : "Скумрия плик", "photo_url" : "pictures/skumriaP.png" },
+{ "price" : "10", "name" : "Риба", "photo_url" : "pictures/riba.jpg" }]

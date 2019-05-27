@@ -1,0 +1,3 @@
+[{ "price" : "10", "name" : "Цаца",  "photo_url" : "pictures/caca.jpg"},
+  { "price" : "10", "name" : "Скумрия", "photo_url" : "pictures/skumria.jpg" },
+  { "price" : "10", "name" : "Шаран", "photo_url" : "pictures/sharan.jpg" }]

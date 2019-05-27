@@ -1,0 +1,9 @@
+[{ "price" : "10", "name" : "Цаца",  "photo_url" : "pictures/caca.jpg"},
+  { "price" : "10", "name" : "Скумрия", "photo_url" : "pictures/skumria.jpg" },
+  { "price" : "10", "name" : "Шаран", "photo_url" : "pictures/sharan.jpg" },
+  { "price" : "10", "name" : "Риба тон", "photo_url" : "pictures/ribaTon.png" },
+  { "price" : "10", "name" : "Скумрия плик", "photo_url" : "pictures/skumriaP.png" },
+{ "price" : "10", "name" : "Риба", "photo_url" : "pictures/riba.jpg" },
+{ "price" : "10", "name" : "Нож за почистване", "photo_url" : "pictures/knife.jpg" },
+{ "price" : "10", "name" : "Нож", "photo_url" : "pictures/knife2.jpg" },
+{ "price" : "10", "name" : "Ножици за почистване", "photo_url" : "pictures/knife3.jpg" }]

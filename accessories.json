@@ -1,0 +1,3 @@
+[{ "price" : "10", "name" : "Нож за почистване", "photo_url" : "pictures/knife.jpg" },
+{ "price" : "10", "name" : "Нож", "photo_url" : "pictures/knife2.jpg" },
+{ "price" : "10", "name" : "Ножици за почистване", "photo_url" : "pictures/knife3.jpg" }]

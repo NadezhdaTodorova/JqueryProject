@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="products.js"></script>
+        <link href="products.css" rel="stylesheet" />
+         <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    </head>
+    <body>
+       <nav class="navbar navbar-inverse"></nav>
+        <form id="buyProduct">
+            <main class="main">
+                <div class="container-fluid  padding-top-2">
+                    <div class="col-md-3 col-lg-3">
+                        <div class="card center-block">
+                            <ul class="list-group list-group-flush" style="border:none;">
+                                <li id="allproducts" class="list-group-item">
+                                    <a href="#link1">Категории</a>
+                                </li>
+                                <li id="fish" class="list-group-item">
+                                    <a href="#link1">Риба</a>
+                                </li>
+                                <li id="fishProd" class="list-group-item">
+                                    <a href="#link2">Рибни продукти</a>
+                                </li>
+                                <li id="accessories" class="list-group-item">
+                                    <a href="#link3">Аксесоари</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-9 col-lg-9" id="product1">
+                    </div>
+                </div>
+            </main>
+        </form>
+    </body>
+</html>
+

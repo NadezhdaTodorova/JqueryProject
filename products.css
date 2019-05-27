@@ -1,0 +1,12 @@
+.info {
+    display: inline-block;
+}
+
+div .labels {
+    text-decoration: underline;
+    font-size: medium;
+}
+
+.top {
+    margin:20px;
+}
